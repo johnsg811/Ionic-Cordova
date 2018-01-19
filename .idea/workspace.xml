@@ -34,11 +34,11 @@
       <file leaf-file-name="home.ts" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ionic3leaflet/src/pages/home/home.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1093">
-              <caret line="35" column="41" lean-forward="false" selection-start-line="35" selection-start-column="41" selection-end-line="35" selection-end-column="41" />
+            <state relative-caret-position="453">
+              <caret line="148" column="0" lean-forward="false" selection-start-line="148" selection-start-column="0" selection-end-line="148" selection-end-column="0" />
               <folding>
                 <element signature="e#0#65#0" expanded="true" />
-                <marker date="1516298490771" expanded="true" signature="940:946" ph="©" />
+                <marker date="1516327292859" expanded="true" signature="971:977" ph="©" />
               </folding>
             </state>
           </provider>
@@ -70,8 +70,10 @@
         <entry file="file://$PROJECT_DIR$/ionic3leaflet/package.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="480">
-              <caret line="32" column="23" lean-forward="false" selection-start-line="32" selection-start-column="23" selection-end-line="32" selection-end-column="23" />
-              <folding />
+              <caret line="33" column="23" lean-forward="false" selection-start-line="33" selection-start-column="23" selection-end-line="33" selection-end-column="23" />
+              <folding>
+                <marker date="1516317759265" expanded="true" signature="392:1071" ph="{&quot;@angular/common&quot;: &quot;4.4.3&quot;...}" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -124,26 +126,18 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>setView</find>
-      <find>locate</find>
-      <find>locationfound</find>
-      <find>l.</find>
-      <find>;</find>
-      <find>contain</find>
       <find>ElementRef</find>
       <find>setvi</find>
       <find>.git</find>
       <find>navCtrl</find>
       <find>body</find>
       <find>.on</find>
-      <find>addTo</find>
       <find>gitmodules</find>
       <find>addla</find>
       <find>var</find>
       <find>onm</find>
       <find>pos</find>
       <find>userData</find>
-      <find>displayMarkers</find>
       <find>s</find>
       <find>name</find>
       <find>marker</find>
@@ -151,8 +145,17 @@
       <find>http</find>
       <find>hi</find>
       <find>you are</find>
-      <find>addto</find>
       <find>style</find>
+      <find>req</find>
+      <find>requi</find>
+      <find>add</find>
+      <find>l.</find>
+      <find>addTo</find>
+      <find>lon</find>
+      <find>map</find>
+      <find>displayMarkers</find>
+      <find>locI</find>
+      <find>addto</find>
     </findStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$/ionic3leaflet</dir>
@@ -259,6 +262,7 @@
     <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="excluded.www.directory" value="true" />
+    <property name="typescript-compiler-editor-notification" value="false" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -299,15 +303,16 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22249094" sideWeight="0.53648067" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.49713877" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22249094" sideWeight="0.4635193" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22249094" sideWeight="0.4635193" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12947068" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18884121" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -395,7 +400,7 @@
           <caret line="43" column="25" lean-forward="false" selection-start-line="43" selection-start-column="6" selection-end-line="43" selection-end-column="25" />
           <folding>
             <element signature="e#0#65#0" expanded="true" />
-            <marker date="1516298490771" expanded="true" signature="940:946" ph="©" />
+            <marker date="1516327292859" expanded="true" signature="971:977" ph="©" />
           </folding>
         </state>
       </provider>
@@ -432,7 +437,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <marker date="1516317759265" expanded="true" signature="392:1071" ph="{&quot;@angular/common&quot;: &quot;4.4.3&quot;...}" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -531,7 +538,7 @@
           <caret line="29" column="19" lean-forward="false" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="19" />
           <folding>
             <element signature="e#0#65#0" expanded="true" />
-            <marker date="1516298490771" expanded="true" signature="940:946" ph="©" />
+            <marker date="1516327292859" expanded="true" signature="971:977" ph="©" />
           </folding>
         </state>
       </provider>
@@ -577,6 +584,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" column="31" lean-forward="false" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -703,8 +711,10 @@
     <entry file="file://$PROJECT_DIR$/ionic3leaflet/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
-          <caret line="32" column="23" lean-forward="false" selection-start-line="32" selection-start-column="23" selection-end-line="32" selection-end-column="23" />
-          <folding />
+          <caret line="33" column="23" lean-forward="false" selection-start-line="33" selection-start-column="23" selection-end-line="33" selection-end-column="23" />
+          <folding>
+            <marker date="1516317759265" expanded="true" signature="392:1071" ph="{&quot;@angular/common&quot;: &quot;4.4.3&quot;...}" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -718,14 +728,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ionic3leaflet/src/pages/home/home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ionic3leaflet/src/pages/home/home.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -734,13 +736,21 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/ionic3leaflet/src/pages/home/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ionic3leaflet/src/pages/home/home.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1093">
-          <caret line="35" column="41" lean-forward="false" selection-start-line="35" selection-start-column="41" selection-end-line="35" selection-end-column="41" />
+        <state relative-caret-position="453">
+          <caret line="148" column="0" lean-forward="false" selection-start-line="148" selection-start-column="0" selection-end-line="148" selection-end-column="0" />
           <folding>
             <element signature="e#0#65#0" expanded="true" />
-            <marker date="1516298490771" expanded="true" signature="940:946" ph="©" />
+            <marker date="1516327292859" expanded="true" signature="971:977" ph="©" />
           </folding>
         </state>
       </provider>
